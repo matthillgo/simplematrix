@@ -20,7 +20,8 @@ This app is ideal for:
 ## Installation
 
 1. Clone this repository:
-   ```bash git clone https://github.com/yourusername/SimpleMatrix.git
+   ```bash
+   git clone https://github.com/yourusername/SimpleMatrix.git
 2. Open the project in Android Studio.
 3. Build and run the application on an Android emulator or physical device.
 
@@ -42,14 +43,14 @@ This app is ideal for:
 We welcome contributions! If you'd like to contribute to Simple Matrix, please:
 1. Fork the repository.
 2. Create a feature branch:
-```bash
-  git checkout -b feature-name
+   ```bash
+   git checkout -b feature-name
 3. Commit your changes:
-```bash
-  git commit -m "Add feature"
+   ```bash
+     git commit -m "Add feature"
 3. Push to the branch:
-```bash
-  git push origin feature-name
+   ```bash
+     git push origin feature-name
 4. Open a pull request.
 
 # License
